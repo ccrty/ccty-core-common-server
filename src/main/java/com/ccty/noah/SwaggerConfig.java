@@ -1,3 +1,4 @@
+/*
 package com.ccty.noah;
 
 import org.springframework.context.annotation.Bean;
@@ -10,10 +11,12 @@ import springfox.documentation.service.ApiInfo;
 import springfox.documentation.spi.DocumentationType;
 import springfox.documentation.spring.web.plugins.Docket;
 
+*/
 /**
  * @author 缄默
  * @date 2019/10/14
- */
+ *//*
+
 @Configuration
 @ComponentScan({"com.ccty.noah"})
 public class SwaggerConfig {
@@ -40,3 +43,4 @@ public class SwaggerConfig {
 
 
 }
+*/

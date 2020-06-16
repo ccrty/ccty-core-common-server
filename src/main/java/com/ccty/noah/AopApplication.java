@@ -1,3 +1,4 @@
+/*
 package com.ccty.noah;
 
 import org.springframework.boot.SpringApplication;
@@ -13,3 +14,4 @@ public class AopApplication {
     }
 
 }
+*/
